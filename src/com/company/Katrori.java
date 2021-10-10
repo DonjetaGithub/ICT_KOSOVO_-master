@@ -25,7 +25,7 @@ public class Katrori {
     }
 
 
- public void print() {
+    public void print() {
     for (int i=0; i<a; i++){
         for (int j = 0; j < a; j++){
             System.out.print("#");
